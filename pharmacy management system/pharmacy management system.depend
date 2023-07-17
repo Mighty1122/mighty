@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1662038941 source:d:\pharmacy management system\main.cpp
+	<iostream>
+	<string>
+	"medicineType.h"
+	<stdlib.h>
+	<cctype>
+	<cstdio>
+	<fstream>
+	<iomanip>
+	<time.h>
+
+1662029782 d:\pharmacy management system\include\medicinetype.h
+	<iostream>
+	<iostream>
+
+1662039163 source:d:\pharmacy management system\src\medicinetype.cpp
+	"medicineType.h"
+	<iostream>
+	<iostream>
+	<time.h>
+
+1662039331 source:c:\users\abanm\desktop\files\pharmacy management system\main.cpp
+	<iostream>
+	<string>
+	"medicineType.h"
+	<stdlib.h>
+	<cctype>
+	<cstdio>
+	<fstream>
+	<iomanip>
+	<time.h>
+
+1662029782 c:\users\abanm\desktop\files\pharmacy management system\include\medicinetype.h
+	<iostream>
+	<iostream>
+
+1662039163 source:c:\users\abanm\desktop\files\pharmacy management system\src\medicinetype.cpp
+	"medicineType.h"
+	<iostream>
+	<iostream>
+	<time.h>
+
